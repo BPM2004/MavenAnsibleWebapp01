@@ -30,7 +30,7 @@
   <version>3.4.0</version>
   </plugin>
   </plugins>
-    <finalName>MavenAnsibleWebapp</finalName>
+    <finalName>MavenAnsibleWebapp01</finalName>
   </build>
 </project>
 
